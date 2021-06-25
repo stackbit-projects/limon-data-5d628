@@ -88,8 +88,8 @@ sections:
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          LimonData´s database helps keep up to date our global directory for
-          Flexible Office Operators.
+          LimonData´s database helps enrich our global directory for Flexible
+          Office Operators.
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
