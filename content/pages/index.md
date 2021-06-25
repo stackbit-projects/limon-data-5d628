@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Competitive & Market Intelligence Insights
     content: >
-      We scan the web´s reviews and pricing to help businesses make informed
-      decisions.
+      We scan the web´s reviews and pricing points to help businesses make
+      informed decisions.
     actions:
       - label: Learn More
         url: /features
