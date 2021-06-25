@@ -82,7 +82,7 @@ sections:
         avatar_alt: Parsley Montana's photo
         content: >-
           Thanks to LimonData Transparent is able to provide market share
-          insights 
+          insights into the car rental industyr to 
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
