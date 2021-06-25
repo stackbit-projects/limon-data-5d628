@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Competitive & Market Intelligence Insights
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      We scan the web´s reviews and pricing to help businesses make informed
+      decisions.
     actions:
       - label: Learn More
         url: /features
