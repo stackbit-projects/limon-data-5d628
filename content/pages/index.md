@@ -96,7 +96,7 @@ sections:
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Request a Demo
-        url: /signup
+        url: 'https://pie2re.typeform.com/to/bqJ0ieF7'
         style: primary
   - section_id: recent-posts
     type: section_posts
