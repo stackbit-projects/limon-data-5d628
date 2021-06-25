@@ -11,7 +11,7 @@ sections:
       informed decisions.
     actions:
       - label: Request a Demo
-        url: /features
+        url: 'https://pie2re.typeform.com/to/bqJ0ieF7'
         style: primary
   - section_id: features
     type: section_features
