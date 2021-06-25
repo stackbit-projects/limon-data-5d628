@@ -77,7 +77,7 @@ sections:
         content: >-
           LimonData provides us with valuable insights into the Spanish real
           estate agency market thanks to thousands of agency profiles scanned
-          monthly
+          monthly.
       - author: 'Clara Rivas, Director of Tourism Organization @ Transparent'
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
