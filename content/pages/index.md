@@ -80,7 +80,9 @@ sections:
       - author: Pierre Becerril
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
-        content: 'Thanks to LimonData Transparent is able to provide web '
+        content: >-
+          Thanks to LimonData Transparent is able to provide car rental market
+          share insights 
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
