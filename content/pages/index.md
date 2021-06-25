@@ -93,7 +93,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Talk to us about competitive intelligence
-    subtitle: This is an optional description for the call to action block.
+    subtitle: We´d love to
     actions:
       - label: Request a Demo
         url: 'https://pie2re.typeform.com/to/bqJ0ieF7'
