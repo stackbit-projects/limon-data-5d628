@@ -75,7 +75,7 @@ sections:
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          Limon ata provides us with valuable insights into the Spanish real
+          LimonData provides us with valuable insights into the Spanish real
           estate agency market thanks to thousands of agency profiles scanned
           monthly
       - author: 'Clara Rivas, Director of Tourism Organization @ Transparent'
