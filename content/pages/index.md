@@ -81,8 +81,8 @@ sections:
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
-          Thanks to LimonData we are ble to provide able to provide market share
-          insights into the car rental industyr to 
+          Thanks to LimonData we are ble to provide market share insights into
+          the car rental industry to our clients.
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
