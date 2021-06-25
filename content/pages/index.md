@@ -93,7 +93,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Talk to us about competitive intelligence
-    subtitle: We´d love to
+    subtitle: Learn about how we can help and what is our pricing
     actions:
       - label: Request a Demo
         url: 'https://pie2re.typeform.com/to/bqJ0ieF7'
