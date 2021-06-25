@@ -84,7 +84,7 @@ sections:
         content: >-
           Thanks to LimonData we are able to provide market share insights into
           the car rental industry to our clients.
-      - author: Jonquil Von Haggerston
+      - author: 'Ana Tello, Data Analyst @ Coworkintel'
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
