@@ -10,7 +10,7 @@ sections:
       We scan the web´s reviews and pricing points to help businesses make
       informed decisions.
     actions:
-      - label: Learn More
+      - label: Request a Demo
         url: /features
         style: primary
   - section_id: features
