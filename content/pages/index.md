@@ -75,8 +75,9 @@ sections:
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Limon data provides us with valuable insights into the Spanish real
+          estate agency market thanks to thousands of agency profiles scanned
+          monthly
       - author: 'Clara Rivas, Director of Tourism Organization @ Transparent'
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
