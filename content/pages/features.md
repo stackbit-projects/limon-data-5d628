@@ -7,21 +7,23 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: We collect data online and extract insights for you
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      We identify, screen, license, clean, and analyse alternative data to help
+      companies and institutions answer their key questions.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      *   Demand evolution over time
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      *   Client satisfaction by competitor
+
+      *   Market share evolution
+
+      *   Price analytics
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      LimonData is the fastest, easiest way to unlock the value of online
+      publicly available data.
     actions:
       - label: Free Trial
         url: /signup
