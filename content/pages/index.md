@@ -65,9 +65,7 @@ sections:
     type: section_reviews
     background: white
     title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+    subtitle: Our client s
     reviews:
       - author: 'Ramón Salguero, CEO @ LaMejorAgencia.es'
         avatar: /images/Ramon.jpeg
