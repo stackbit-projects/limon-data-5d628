@@ -82,7 +82,7 @@ sections:
         content: >-
           Thanks to LimonData we are able to provide market share insights into
           the car rental industry to our clients.
-      - author: 'Ana Tello, Data Analyst @ Coworkintel'
+      - author: 'Eugenio Ciccale, Founder @ 5 Vegan Facts'
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
