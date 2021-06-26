@@ -86,8 +86,8 @@ sections:
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          LimonData´s database helps enrich our global directory for Flexible
-          Office Operators.
+          LimonData´s database helps us size the growth of the Vegan restaurants
+          industry around the world.
   - section_id: call-to-action
     type: section_cta
     title: Talk to us about competitive intelligence
