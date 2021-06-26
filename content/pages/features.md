@@ -34,7 +34,9 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Start tracking your market now.
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      Talk to our team to see how we can help with your competitive intelligence
+      needs.
     actions:
       - label: Request a Demo
         url: 'https://pie2re.typeform.com/to/bqJ0ieF7'
