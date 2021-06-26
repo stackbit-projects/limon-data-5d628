@@ -70,7 +70,7 @@ sections:
       semper libero id sodales.
     reviews:
       - author: 'Ramón Salguero, CEO @ LaMejorAgencia.es'
-        avatar: images/review1.jpg
+        avatar: /images/Ramon.jpeg
         avatar_alt: Eric Widget's photo
         content: >-
           LimonData provides us with valuable insights into the Spanish real
