@@ -25,7 +25,7 @@ sections:
       LimonData is the fastest, easiest way to unlock the value of online
       publicly available data.
     actions:
-      - label: Free Trial
+      - label: Request a Demo
         url: /signup
         style: primary
       - label: View Demo
