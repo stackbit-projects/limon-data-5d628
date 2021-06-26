@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: Our mission is to help informed strategic decision with web-sourced data
-image: /images/2021_0626_19212800.jpg
+image: /images/Amelie.png
 image_alt: Team members in a conference room
 seo:
   title: About Us
