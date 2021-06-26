@@ -65,7 +65,7 @@ sections:
     type: section_reviews
     background: white
     title: Testimonials
-    subtitle: Our client s
+    subtitle: Join our list of satisfied clients
     reviews:
       - author: 'Ramón Salguero, CEO @ LaMejorAgencia.es'
         avatar: /images/Ramon.jpeg
