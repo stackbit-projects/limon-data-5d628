@@ -26,7 +26,7 @@ sections:
       publicly available data.
     actions:
       - label: Request a Demo
-        url: /signup
+        url: 'https://pie2re.typeform.com/to/bqJ0ieF7'
         style: primary
       - label: View Demo
         url: '#'
