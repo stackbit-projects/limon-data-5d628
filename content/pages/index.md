@@ -83,7 +83,7 @@ sections:
           Thanks to LimonData we are able to provide market share insights into
           the car rental industry to our clients.
       - author: 'Eugenio Ciccale, Founder @ 5 Vegan Facts'
-        avatar: images/review3.jpg
+        avatar: /images/euge.jpeg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           LimonData´s database helps us size the growth of the Vegan restaurants
