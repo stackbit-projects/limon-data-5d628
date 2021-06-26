@@ -23,7 +23,6 @@ layout: page
 ---
 Last updated June 25, 2021
 
-
 Thank you for choosing to be part of our community at LimonData, S.L.
 ("Company", "we", "us", "our"). We are committed to protecting your personal
 information and your right to privacy. If you have any questions or concerns about
@@ -42,7 +41,11 @@ as described above, includes our Website), as well as, any related services, sal
 marketing or events.
 Please read this privacy notice carefully as it will help you understand what
 we do with the information that we collect.
-TABLE OF CONTENTS
+
+
+**TABLE OF CONTENTS**
+
+
 1\. WHAT INFORMATION DO WE COLLECT?
 2\. HOW DO WE USE YOUR INFORMATION?
 3\. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
@@ -58,7 +61,11 @@ TABLE OF CONTENTS
 13\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 14\. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT
 FROM YOU?
-1\. WHAT INFORMATION DO WE COLLECT?
+
+
+**1. WHAT INFORMATION DO WE COLLECT?**
+
+
 Information automatically collected
 In Short: Some information — such as your Internet Protocol (IP) address and/or
 browser and device characteristics — is collected automatically when you visit our Website.
@@ -68,26 +75,7 @@ IP address, browser and device characteristics, operating system, language
 preferences, referring URLs, device name, country, location, information about
 how and when you use our Website and other technical information. This
 information is primarily needed to maintain the security and operation of our Website, and for our internal analytics and reporting purposes.
-Custom Branding
-Hide “Powered by Termly” logo
-Customize Policy Style
-Theme
-Select "Create New Theme" to edit your policy style.
-To create a custom theme, please
-upgrade. Pro+ plans start as low as
-$15/month. View Plans
-Consent Management
-Policies
-Privacy Policy
-Cookie Policy
-Terms and Conditions
-Return Policy
-Disclaimer
-Settings
-Sharp (Default)
-APPLY THEME 
-26/06/2021 Termly
-https://app.termly.io/dashboard/website/c9b566ee-879e-41c1-87d7-5ed982337003/privacy-policy 2/6
+
 Like many businesses, we also collect information through cookies and similar
 technologies.
 The information we collect includes:
@@ -117,7 +105,11 @@ technologies to collect geolocation data that tells us your current location
 information either by refusing access to the information or by disabling your
 Location setting on your device. Note however, if you choose to opt out, you
 may not be able to use certain aspects of the Services.
-2\. HOW DO WE USE YOUR INFORMATION?
+
+
+**2. HOW DO WE USE YOUR INFORMATION?**
+
+
 In Short: We process your information for purposes based on legitimate business
 interests, the fulfillment of our contract with you, compliance with our legal
 obligations, and/or your consent.
@@ -152,7 +144,9 @@ To protect our Services. We may use your information as part of our
 efforts to keep our Website safe and secure (for example, for fraud
 monitoring and prevention). 
 26/06/2021 Termly
-https://app.termly.io/dashboard/website/c9b566ee-879e-41c1-87d7-5ed982337003/privacy-policy 3/6
+
+
+
 To enforce our terms, conditions and policies for business purposes,
 to comply with legal and regulatory requirements or in connection
 with our contract.
@@ -181,8 +175,12 @@ Deliver targeted advertising to you. We may use your information to
 develop and display personalized content and advertising (and work with
 third parties who do so) tailored to your interests and/or location and to
 measure its effectiveness.
-3\. WILL YOUR INFORMATION BE SHARED WITH
-ANYONE?
+
+
+**3. WILL YOUR INFORMATION BE SHARED WITH
+ANYONE?**
+
+
 In Short: We only share information with your consent, to comply with laws, to
 provide you with services, to protect your rights, or to fulfill business obligations.
 We may process or share your data that we hold based on the following legal
@@ -210,18 +208,26 @@ Business Transfers. We may share or transfer your information in
 connection with, or during negotiations of, any merger, sale of company
 assets, financing, or acquisition of all or a portion of our business to another
 company.
-4\. DO WE USE COOKIES AND OTHER TRACKING
-TECHNOLOGIES? 
+
+
+**4. DO WE USE COOKIES AND OTHER TRACKING
+TECHNOLOGIES? **
 26/06/2021 Termly
-https://app.termly.io/dashboard/website/c9b566ee-879e-41c1-87d7-5ed982337003/privacy-policy 4/6
+
+
+
 In Short: We may use cookies and other tracking technologies to collect and
 store your information.
 We may use cookies and similar tracking technologies (like web beacons and
 pixels) to access or store information. Specific information about how we use such
 technologies and how you can refuse certain cookies is set out in our Cookie
 Notice.
-5\. IS YOUR INFORMATION TRANSFERRED
-INTERNATIONALLY?
+
+
+**5. IS YOUR INFORMATION TRANSFERRED
+INTERNATIONALLY?**
+
+
 In Short: We may transfer, store, and process your information in countries other
 than your own.
 Our servers are located in. If you are accessing our Website from outside, please
@@ -234,7 +240,11 @@ If you are a resident in the European Economic Area (EEA) or United Kingdom
 similar laws as comprehensive as those in your country. We will however take all
 necessary measures to protect your personal information in accordance with this
 privacy notice and applicable law.
-6\. HOW LONG DO WE KEEP YOUR INFORMATION?
+
+
+**6. HOW LONG DO WE KEEP YOUR INFORMATION?**
+
+
 In Short: We keep your information for as long as necessary to fulfill the
 purposes outlined in this privacy notice unless otherwise required by law.
 We will only keep your personal information for as long as it is necessary for the
@@ -247,7 +257,11 @@ information, we will either delete or anonymize such information, or, if this is
 possible (for example, because your personal information has been stored in
 backup archives), then we will securely store your personal information and isolate
 it from any further processing until deletion is possible.
-7\. HOW DO WE KEEP YOUR INFORMATION SAFE?
+
+
+**7. HOW DO WE KEEP YOUR INFORMATION SAFE?**
+
+
 In Short: We aim to protect your personal information through a system of
 organizational and technical security measures.
 We have implemented appropriate technical and organizational security measures
@@ -260,7 +274,11 @@ security, and improperly collect, access, steal, or modify your information.
 Although we will do our best to protect your personal information, transmission of
 personal information to and from our Website is at your own risk. You should only
 access the Website within a secure environment.
-8\. DO WE COLLECT INFORMATION FROM MINORS?
+
+
+**8. DO WE COLLECT INFORMATION FROM MINORS?**
+
+
 In Short: We do not knowingly collect data from or market to children under 18
 years of age.
 We do not knowingly solicit data from or market to children under 18 years of age.
@@ -271,11 +289,13 @@ age has been collected, we will deactivate the account and take reasonable
 measures to promptly delete such data from our records. If you become aware of
 any data we may have collected from children under age 18, please contact us at
 privacy@limondata.es.
-9\. WHAT ARE YOUR PRIVACY RIGHTS?
+
+
+**9. WHAT ARE YOUR PRIVACY RIGHTS?**
+
+
 In Short: You may review, change, or terminate your account at any time.
 
-26/06/2021 Termly
-https://app.termly.io/dashboard/website/c9b566ee-879e-41c1-87d7-5ed982337003/privacy-policy 5/6
 If you are a resident in the EEA or UK and you believe we are unlawfully
 processing your personal information, you also have the right to complain to your
 local data protection supervisory authority. You can find their contact details here:
@@ -307,7 +327,11 @@ to send you service-related emails that are necessary for the administration and
 use of your account, to respond to service requests, or for other non-marketing
 purposes. To otherwise opt-out, you may:
 Contact us using the contact information provided.
-10\. CONTROLS FOR DO-NOT-TRACK FEATURES
+
+
+**10. CONTROLS FOR DO-NOT-TRACK FEATURES**
+
+
 Most web browsers and some mobile operating systems and mobile applications
 include a Do-Not-Track ("DNT") feature or setting you can activate to signal your
 privacy preference not to have data about your online browsing activities
@@ -317,8 +341,12 @@ currently respond to DNT browser signals or any other mechanism that
 automatically communicates your choice not to be tracked online. If a standard for
 online tracking is adopted that we must follow in the future, we will inform you
 about that practice in a revised version of this privacy notice.
-11\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC
-PRIVACY RIGHTS?
+
+
+**11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC
+PRIVACY RIGHTS?**
+
+
 In Short: Yes, if you are a resident of California, you are granted specific rights
 regarding access to your personal information.
 California Civil Code Section 1798.83, also known as the "Shine The Light" law,
@@ -338,9 +366,10 @@ California. We will make sure the data is not publicly displayed on the Website,
 please be aware that the data may not be completely or comprehensively
 removed from all our systems (e.g. backups, etc.).
 
-26/06/2021 Termly
-https://app.termly.io/dashboard/website/c9b566ee-879e-41c1-87d7-5ed982337003/privacy-policy 6/6
-12\. DO WE MAKE UPDATES TO THIS NOTICE?
+
+**12. DO WE MAKE UPDATES TO THIS NOTICE?**
+
+
 In Short: Yes, we will update this notice as necessary to stay compliant with
 relevant laws.
 We may update this privacy notice from time to time. The updated version will be
@@ -349,12 +378,15 @@ as soon as it is accessible. If we make material changes to this privacy notice,
 may notify you either by prominently posting a notice of such changes or by
 directly sending you a notification. We encourage you to review this privacy notice
 frequently to be informed of how we are protecting your information.
-13\. HOW CAN YOU CONTACT US ABOUT THIS
-NOTICE?
+
+
+**13. HOW CAN YOU CONTACT US ABOUT THIS
+NOTICE?**
+
+
 If you have questions or comments about this notice, you may email us at
 privacy@limondata.es or by post to:
 LimonData, S.L.
 Carrera san jeronimo 17
 Madrid, Madrid 28014
 Spain
-This privacy policy was created using Termly’s Privacy Policy Generator.
