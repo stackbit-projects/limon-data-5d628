@@ -77,7 +77,7 @@ sections:
           estate agency market thanks to thousands of agency profiles scanned
           monthly.
       - author: 'Clara Rivas, Director of Tourism Organization @ Transparent'
-        avatar: images/review2.jpg
+        avatar: /images/Clara.jpeg
         avatar_alt: Parsley Montana's photo
         content: >-
           Thanks to LimonData we are able to provide market share insights into
