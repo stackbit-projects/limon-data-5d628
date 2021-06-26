@@ -42,29 +42,53 @@ marketing or events.
 Please read this privacy notice carefully as it will help you understand what
 we do with the information that we collect.
 
-
 **TABLE OF CONTENTS**
 
-
 1\. WHAT INFORMATION DO WE COLLECT?
+
+
 2\. HOW DO WE USE YOUR INFORMATION?
+
+
 3\. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
+
+
 4\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+
+
 5\. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
+
+
 6\. HOW LONG DO WE KEEP YOUR INFORMATION?
+
+
 7\. HOW DO WE KEEP YOUR INFORMATION SAFE?
+
+
 8\. DO WE COLLECT INFORMATION FROM MINORS?
+
+
 9\. WHAT ARE YOUR PRIVACY RIGHTS?
+
+
 10\. CONTROLS FOR DO-NOT-TRACK FEATURES
+
+
 11\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+
+
 12\. DO WE MAKE UPDATES TO THIS NOTICE?
+
+
 13\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+
+
 14\. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT
 FROM YOU?
 
 
-**1. WHAT INFORMATION DO WE COLLECT?**
 
+**1. WHAT INFORMATION DO WE COLLECT?**
 
 Information automatically collected
 In Short: Some information — such as your Internet Protocol (IP) address and/or
@@ -106,9 +130,7 @@ information either by refusing access to the information or by disabling your
 Location setting on your device. Note however, if you choose to opt out, you
 may not be able to use certain aspects of the Services.
 
-
 **2. HOW DO WE USE YOUR INFORMATION?**
-
 
 In Short: We process your information for purposes based on legitimate business
 interests, the fulfillment of our contract with you, compliance with our legal
@@ -145,8 +167,6 @@ efforts to keep our Website safe and secure (for example, for fraud
 monitoring and prevention). 
 26/06/2021 Termly
 
-
-
 To enforce our terms, conditions and policies for business purposes,
 to comply with legal and regulatory requirements or in connection
 with our contract.
@@ -176,10 +196,8 @@ develop and display personalized content and advertising (and work with
 third parties who do so) tailored to your interests and/or location and to
 measure its effectiveness.
 
-
 **3. WILL YOUR INFORMATION BE SHARED WITH
 ANYONE?**
-
 
 In Short: We only share information with your consent, to comply with laws, to
 provide you with services, to protect your rights, or to fulfill business obligations.
@@ -209,12 +227,9 @@ connection with, or during negotiations of, any merger, sale of company
 assets, financing, or acquisition of all or a portion of our business to another
 company.
 
-
 **4. DO WE USE COOKIES AND OTHER TRACKING
 TECHNOLOGIES? **
 26/06/2021 Termly
-
-
 
 In Short: We may use cookies and other tracking technologies to collect and
 store your information.
@@ -223,10 +238,8 @@ pixels) to access or store information. Specific information about how we use su
 technologies and how you can refuse certain cookies is set out in our Cookie
 Notice.
 
-
 **5. IS YOUR INFORMATION TRANSFERRED
 INTERNATIONALLY?**
-
 
 In Short: We may transfer, store, and process your information in countries other
 than your own.
@@ -241,9 +254,7 @@ similar laws as comprehensive as those in your country. We will however take all
 necessary measures to protect your personal information in accordance with this
 privacy notice and applicable law.
 
-
 **6. HOW LONG DO WE KEEP YOUR INFORMATION?**
-
 
 In Short: We keep your information for as long as necessary to fulfill the
 purposes outlined in this privacy notice unless otherwise required by law.
@@ -258,9 +269,7 @@ possible (for example, because your personal information has been stored in
 backup archives), then we will securely store your personal information and isolate
 it from any further processing until deletion is possible.
 
-
 **7. HOW DO WE KEEP YOUR INFORMATION SAFE?**
-
 
 In Short: We aim to protect your personal information through a system of
 organizational and technical security measures.
@@ -275,9 +284,7 @@ Although we will do our best to protect your personal information, transmission 
 personal information to and from our Website is at your own risk. You should only
 access the Website within a secure environment.
 
-
 **8. DO WE COLLECT INFORMATION FROM MINORS?**
-
 
 In Short: We do not knowingly collect data from or market to children under 18
 years of age.
@@ -290,9 +297,7 @@ measures to promptly delete such data from our records. If you become aware of
 any data we may have collected from children under age 18, please contact us at
 privacy@limondata.es.
 
-
 **9. WHAT ARE YOUR PRIVACY RIGHTS?**
-
 
 In Short: You may review, change, or terminate your account at any time.
 
@@ -328,9 +333,7 @@ use of your account, to respond to service requests, or for other non-marketing
 purposes. To otherwise opt-out, you may:
 Contact us using the contact information provided.
 
-
 **10. CONTROLS FOR DO-NOT-TRACK FEATURES**
-
 
 Most web browsers and some mobile operating systems and mobile applications
 include a Do-Not-Track ("DNT") feature or setting you can activate to signal your
@@ -342,10 +345,8 @@ automatically communicates your choice not to be tracked online. If a standard f
 online tracking is adopted that we must follow in the future, we will inform you
 about that practice in a revised version of this privacy notice.
 
-
 **11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC
 PRIVACY RIGHTS?**
-
 
 In Short: Yes, if you are a resident of California, you are granted specific rights
 regarding access to your personal information.
@@ -369,7 +370,6 @@ removed from all our systems (e.g. backups, etc.).
 
 **12. DO WE MAKE UPDATES TO THIS NOTICE?**
 
-
 In Short: Yes, we will update this notice as necessary to stay compliant with
 relevant laws.
 We may update this privacy notice from time to time. The updated version will be
@@ -379,10 +379,8 @@ may notify you either by prominently posting a notice of such changes or by
 directly sending you a notification. We encourage you to review this privacy notice
 frequently to be informed of how we are protecting your information.
 
-
 **13. HOW CAN YOU CONTACT US ABOUT THIS
 NOTICE?**
-
 
 If you have questions or comments about this notice, you may email us at
 privacy@limondata.es or by post to:
