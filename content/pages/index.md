@@ -50,10 +50,10 @@ sections:
       - title: Retail
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Compare retail rates across product categories over time and save
+          countless hours on your competitive intelligence research with our
+          unified database of retail product & prices.
         actions:
           - label: Learn More
             url: /features
