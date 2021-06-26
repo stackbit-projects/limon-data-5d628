@@ -36,7 +36,7 @@ sections:
     title: This Is Call to Action Block!
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
+      - label: Request a Demo
         url: 'https://pie2re.typeform.com/to/bqJ0ieF7'
         style: secondary
 seo:
