@@ -4,7 +4,7 @@ subtitle: The top 100 restaurants in Madrid
 author: content/data/authors/jane-doe.yaml
 excerpt: top 100
 date: '2021-02-02'
-thumb_image: images/3_thumb.jpg
+thumb_image: /images/Screenshot 2021-06-27 at 10.39.10.png
 thumb_image_alt: A group of people working in a cafe
 image: /images/Screenshot 2021-06-27 at 10.39.10.png
 image_alt: LimonData Dashboard
