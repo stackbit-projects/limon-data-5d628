@@ -1,6 +1,6 @@
 ---
 title: 'Qué pasa cuando analizamos más de 3,000,000 de reseñas de Google maps'
-subtitle: 'What happens when you analyze '
+subtitle: What happens when you analyze 3M reviews from google maps
 excerpt: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
