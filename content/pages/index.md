@@ -99,7 +99,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Stackbit Azimuth Theme
+  title: Competitive Intelligence for the New World | LimonData
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
