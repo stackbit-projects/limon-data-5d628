@@ -2,9 +2,7 @@
 title: Work in progress
 subtitle: 'Apparently, there are 5 Service Skills that Every Employee Needs'
 author: content/data/authors/john-doe.yaml
-excerpt: >-
-  Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
-  interdum, massa massa tempor ante.
+excerpt: Insights Coming Soon
 date: '2018-01-11'
 thumb_image: /images/LP221.jpeg
 image: images/5.jpg
