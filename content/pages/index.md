@@ -48,7 +48,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Retail
-        image: images/feature3.png
+        image: /images/4 mocks.png
         image_alt: App user profile preview
         content: >
           Compare retail rates across product categories over time and save
