@@ -1,5 +1,5 @@
 ---
-title: Publicamos la lista de los 100 restaurantes mejor valorados según Google maps
+title: Publicamos la lista de los 100 restaurantes mejor valorados según Google Maps
 subtitle: The top 100 restaurants in Madrid
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
