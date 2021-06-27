@@ -123,5 +123,6 @@
         ],
         "content": "© LimonData, S.L. All rights reserved."
     },
-    "domain": "https://limondata.es/"
+    "domain": "https://limondata.es/",
+    "favicon": "/images/ico.png"
 }
