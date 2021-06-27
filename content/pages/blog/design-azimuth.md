@@ -1,8 +1,6 @@
 ---
 title: Work in progress
-excerpt: >-
-  Quisque ultrices metus sed libero ultricies condimentum. Suspendisse ut
-  faucibus purus. Mauris at pharetra risus.
+excerpt: Insights Coming Soon
 author: content/data/authors/jane-doe.yaml
 date: '2018-01-09'
 thumb_image: /images/LP221.jpeg
