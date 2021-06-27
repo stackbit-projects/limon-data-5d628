@@ -108,9 +108,6 @@ seo:
     - name: 'og:title'
       value: LimonData
       keyName: property
-    - name: 'og:description'
-      value: The preview of the Azimuth theme
-      keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/limondata_orange.png
       keyName: property
