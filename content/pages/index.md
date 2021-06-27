@@ -100,9 +100,7 @@ sections:
     title: Latest Posts
 seo:
   title: Competitive Intelligence for the New World | LimonData
-  description: >-
-    Gain insights on your market thanks to the data we collect on your
-    competitors
+  description: 'Gain actionable insights on your market thanks to '
   extra:
     - name: 'og:type'
       value: website
