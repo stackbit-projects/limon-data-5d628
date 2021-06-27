@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/mockuper (8).png
+    image: /images/3 mocks.png
     image_alt: App preview
     title: Competitive & Market Intelligence Insights
     content: >
