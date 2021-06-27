@@ -121,5 +121,9 @@ seo:
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
+    - name: 'og:description'
+      value: 'All in one '
+      keyName: property
+      relativeUrl: false
 layout: landing
 ---
