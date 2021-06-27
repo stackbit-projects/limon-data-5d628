@@ -22,7 +22,7 @@ sections:
       quis lorem malesuada luctus.
     features:
       - title: Car Rental
-        image: images/feature1.png
+        image: /images/2 mocks.png
         image_alt: App preview on a phone and tablet
         content: >
           Track Car Rental demand through reviews left by clients over time and
