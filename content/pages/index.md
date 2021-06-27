@@ -100,7 +100,9 @@ sections:
     title: Latest Posts
 seo:
   title: Competitive Intelligence for the New World | LimonData
-  description: The preview of the Azimuth theme
+  description: >-
+    Gain insights on your market thanks to the data we collect on your
+    competitors
   extra:
     - name: 'og:type'
       value: website
