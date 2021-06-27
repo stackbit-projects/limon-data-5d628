@@ -2,7 +2,7 @@
 title: Work in progress
 excerpt: Insights Coming Soon
 author: content/data/authors/jane-doe.yaml
-date: '2021-06-24'
+date: '0002-06-24'
 thumb_image: /images/LP221.jpeg
 image: /images/LP221.jpeg
 seo:
