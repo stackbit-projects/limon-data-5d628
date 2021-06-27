@@ -6,7 +6,7 @@ excerpt: >-
   purus.
 author: content/data/authors/jane-doe.yaml
 date: '2018-01-15'
-thumb_image: images/4_thumb.jpg
+thumb_image: /images/LP221.jpeg
 image: images/4.jpg
 seo:
   title: Sales as a Service
