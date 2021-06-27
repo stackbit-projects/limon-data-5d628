@@ -1,5 +1,5 @@
 ---
-title: Sales as a Service
+title: Work in progress
 subtitle: A interesting tale about Sales
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut elementum
