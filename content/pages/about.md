@@ -5,7 +5,7 @@ image: /images/2021_0626_19212800.jpg
 image_alt: Team members in a conference room
 seo:
   title: About Us
-  description: This is the about page
+  description: We help companies and institutions track their market online
   extra:
     - name: 'og:type'
       value: website
