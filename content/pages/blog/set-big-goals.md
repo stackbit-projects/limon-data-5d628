@@ -5,7 +5,7 @@ excerpt: >-
   turpis egestas.
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-10'
-thumb_image: images/12_thumb.jpg
+thumb_image: /images/LP221.jpeg
 image: images/12.jpg
 seo:
   title: Why You Should Set Big Goals
