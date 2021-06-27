@@ -99,7 +99,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Competitive Intelligence for the New World | LimonData
+  title: LimonData | Competitive Intelligence For The New World
   description: 'Gain actionable insights on your market thanks to '
   extra:
     - name: 'og:type'
