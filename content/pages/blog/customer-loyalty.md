@@ -7,7 +7,7 @@ date: '2021-02-02'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
 image: /images/Screenshot 2021-06-27 at 10.39.10.png
-image_alt: A group of people working in a cafe
+image_alt: LimonData Dashboard
 seo:
   title: Customer Loyalty Programs That Stick
   description: >-
