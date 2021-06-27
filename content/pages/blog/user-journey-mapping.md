@@ -1,5 +1,5 @@
 ---
-title: A Guide To User Journey Mapping
+title: 'Qué pasa cuando analizamos más de 3,000,000 de reseñas de Google maps'
 subtitle: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
