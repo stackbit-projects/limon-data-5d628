@@ -4,9 +4,7 @@ subtitle: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis.
 author: content/data/authors/john-doe.yaml
-excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+excerpt: Insights Coming Soon
 date: '2017-03-26'
 thumb_image: /images/LP221.jpeg
 seo:
