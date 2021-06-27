@@ -50,11 +50,9 @@ Para este análisis, se ha decidido seleccionar los restaurantes con un mínimo 
 
 Todo cabe en este universo culinario y todos tienen un denominador común. Servicio y Calidad. Céntricos y con vistas al skyline, dentro de un mercado de barrio, de cocina fusión o de cocina más clásica, así son los restaurantes mejor valorados de Madrid.
 
-Podéis encontrar la lista completa al final de este artículo o siguiendo este link, y a continuación el top 5 de este ranking:
+Podéis encontrar la lista completa al final de este artículo o siguiendo este [link](https://datastudio.google.com/s/vNjH7bfXuKU), y a continuación el top 5 de este ranking:
 
 Bon appetit
-
-
 
 ![](https://lh5.googleusercontent.com/Nz9wulRhUs7NhQxXzaKQnc_smV9IFXvGHNvnb6SuLqpEuNKE14HAXQ5JPjHwzozl-6pSLq3bqPJZfucFU2EVHlSdXXDSlEJjcX2K3oAxlfNgGevnJLWbk9nxWLbMvyFhyDhzsSZ7)![](https://lh6.googleusercontent.com/CaSrwxF-KwIYvevadrT5PkIT0Ng7-YAyOk4aBYwgrfrVhodRzYuXo49V8m3Js0RlmXsXUJAyC8bz8rurqLWfHCgnWmgPeMbj3vMDNupD_iQGRbGrPdHd2MYQKBtmmSphHzp65kiI)![](https://lh5.googleusercontent.com/Kgqd12BedbgdCebI-whjAkz5LMCPTcK31o3dQXzGf7Guofhuhf4YmdBTe6S8TguYNU4igQ486g8GYdKY532yVFfTv0Ef1cIl2GGbQjcSZB5WjDVKe2FeCjgcAq6MqkJOVM7JzsGS)
 
