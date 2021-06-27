@@ -1,9 +1,7 @@
 ---
 title: Work in progress
 subtitle: A interesting tale about Sales
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut elementum
-  purus.
+excerpt: Insights Coming Soon
 author: content/data/authors/jane-doe.yaml
 date: '2018-01-15'
 thumb_image: /images/LP221.jpeg
