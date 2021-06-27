@@ -6,7 +6,7 @@ excerpt: >-
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-24'
 thumb_image: images/11_thumb.jpg
-image: images/11.jpg
+image: /images/LP221.jpeg
 seo:
   title: How Our Design Team Collaborates
   description: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
