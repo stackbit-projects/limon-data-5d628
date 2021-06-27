@@ -17,9 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Industries
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: We have specialized in the following industries
     features:
       - title: Car Rental
         image: /images/2 mocks.png
