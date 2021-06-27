@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/best-saturn.png
+    image: /images/mockuper (8).png
     image_alt: App preview
     title: Competitive & Market Intelligence Insights
     content: >
