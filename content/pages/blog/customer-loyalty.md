@@ -2,9 +2,7 @@
 title: Publicamos la lista de los 100 restaurantes mejor valorados según Google Maps
 subtitle: The top 100 restaurants in Madrid
 author: content/data/authors/jane-doe.yaml
-excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+excerpt: top 100
 date: '2021-02-02'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
