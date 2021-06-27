@@ -1,5 +1,5 @@
 ---
-title: Los 100 restaurantes más valorados en Google Maps
+title: Publicamos la lista de los 100 restaurantes mejor valorados según Google maps
 subtitle: A story about customer loyalty
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
