@@ -100,9 +100,9 @@ sections:
     title: Latest Posts
 seo:
   title: LimonData | Competitive Intelligence for the New World
-  description: >
+  description: >-
     All in one competitive intelligence platform - Compare online reviews
-    performance and prices analyze strategies & grow your market share!
+    performance and website prices, analyze strategies & grow your market share!
   extra:
     - name: 'og:type'
       value: website
