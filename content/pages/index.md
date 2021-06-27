@@ -35,7 +35,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Hospitality
-        image: images/feature2.png
+        image: /images/5 mocks.png
         image_alt: App users welcoming a new member
         content: >
           Understand restaurants demand over time and identify best performer in
