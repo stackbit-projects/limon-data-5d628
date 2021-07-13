@@ -1,5 +1,5 @@
 ---
-title: Work in progress
+title: ¿Quién gana en el mercado de la distribución de Ópticas en España?
 excerpt: Insights Coming Soon
 author: content/data/authors/jane-doe.yaml
 date: '2019-06-24'
