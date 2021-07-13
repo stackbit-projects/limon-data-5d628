@@ -3,7 +3,7 @@ title: ¿Quién gana en el mercado de la distribución de Ópticas en España?
 excerpt: 'Analizamos más de 4,000 Ópticas españolas'
 author: content/data/authors/jane-doe.yaml
 date: '2021-07-14'
-thumb_image: /images/LP221.jpeg
+thumb_image: /images/G5NCn-top-20-pticas-de-espa-a-br-.png
 image: /images/G5NCn-top-20-pticas-de-espa-a-br-.png
 seo:
   title: How Our Design Team Collaborates
