@@ -4,7 +4,7 @@ excerpt: 'Analizamos más de 4,000 Ópticas españolas'
 author: content/data/authors/jane-doe.yaml
 date: '2021-07-14'
 thumb_image: /images/LP221.jpeg
-image: /images/LP221.jpeg
+image: /images/G5NCn-top-20-pticas-de-espa-a-br-.png
 seo:
   title: How Our Design Team Collaborates
   description: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
