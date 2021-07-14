@@ -37,7 +37,11 @@ Analizamos una base de datos de 4,354 ópticas españolas (aproximadamente el 50
 
 Nuestra base de datos nos permite entender la estructura del sector y su consolidación:
 
-![](https://lh4.googleusercontent.com/gPNSZ6nK7Tl8gcsbP9pkF68Aog-Y6\_sYfS8jhbYA75gNoi6qWslYZU0o4LnGbYxKxc31cyKNiXsBQlUo8sTKN7S-qll0FUApFMR9lqo1hhjrUBk-fHXxdar01cht1KGtB3k84lIJ)
+
+
+![](https://lh3.googleusercontent.com/7umQTUhCXJqbhPYpgEdVCj9XhMm9upcPVd40q8ihk2DUrbGrpbluimyj-\_hdS0eLHdnk3sc7S67gZfAw3mxpb1-3Zb9Ql10g1kMoOfp4DUBOCcW8X9Mt0mJMQTlo93WvyJbUw14F)
+
+
 
 El 53% de las tiendas no pertenecen a ningún grupo mientras que el 27% de las tiendas (más de 1 de cada 4 en la muestra de 4,354 tiendas analizadas) pertenece a un grupo de más de 50 tiendas.
 
@@ -68,7 +72,5 @@ Según nuestro dataset, las mejores poblaciones donde comprar sus gafas son Oure
 Del otro lado, las 3 peores poblaciones de nuestra lista son Araba, Zamora y Girona con reseñas promedias por debajo de 4.0:
 
 ![](https://lh5.googleusercontent.com/9zQEIijX2sE3o0ogHGDkeJFJBck-9n3wFplzuYs0l1XKpg93Q3uTuw2hoy3cYEaI73-qm4K0legiYWayHDuryZrMuM-z5kXd4\_TBuNrRSuZSAGLo8b\_4VOAX7IzSCvEU1ory--B\_)
-
-
 
 Para más información o para acceder a la base de datos detrás de este análisis, podéis contactarnos a través de esta URL: [Contact Us](https://pie2re.typeform.com/to/bqJ0ieF7)
