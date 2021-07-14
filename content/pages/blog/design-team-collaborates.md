@@ -37,11 +37,7 @@ Analizamos una base de datos de 4,354 ópticas españolas (aproximadamente el 50
 
 Nuestra base de datos nos permite entender la estructura del sector y su consolidación:
 
-
-
 ![](https://lh3.googleusercontent.com/7umQTUhCXJqbhPYpgEdVCj9XhMm9upcPVd40q8ihk2DUrbGrpbluimyj-\_hdS0eLHdnk3sc7S67gZfAw3mxpb1-3Zb9Ql10g1kMoOfp4DUBOCcW8X9Mt0mJMQTlo93WvyJbUw14F)
-
-
 
 El 53% de las tiendas no pertenecen a ningún grupo mientras que el 27% de las tiendas (más de 1 de cada 4 en la muestra de 4,354 tiendas analizadas) pertenece a un grupo de más de 50 tiendas.
 
@@ -59,18 +55,22 @@ Vemos una tendencia clara que cuando más grande la cadena, menos calidad percib
 
 Si analizamos la información de satisfacción a nivel de marcas, esto sería nuestro top 20 dentro de las marcas de más de 10 tiendas (excluyendo marcas con menos de 100 reseñas):
 
-![](https://lh3.googleusercontent.com/S31RU93T2OjvId8cV3s9xIzwhrrVqWuVWJB9SI_Ccty0QvoTOSnASxhxxuW2nhUD7oYgQkpUp5Y03FC6vw0kId6QAM9F2wYyL9LW9jaTqLSk4kY3wdz_klfg7pMoJB15Iq1-ycde)
+![](https://lh4.googleusercontent.com/zjbca6AbYrCe6ekF586qVIT0Cx0WjkKw5reKmlvC\_3uXdHDaW2eWHg7Cluy4YQ-MZntoO2rhRvKbKUMhhG09nTYOp5P0wcoBO-ChZsrgbafnjmKO1t6royBy3qTsIXvUV1n12Ktz)
 
 A nivel geográfico, las ciudades más representadas en nuestra muestra son Madrid con 168 ópticas, seguida por Barcelona con 96 ópticas y Valencia con 75 ópticas:
 
-![](https://lh5.googleusercontent.com/InUvP8YTAX1c8w1bUJ5lFdfEpKV337pwD-WB9vqm3aneLpVqY9uuJMm0yuMf7UfAhVuXcv67e9vzQsGZsTFW9w6SoFYvdRsCEsLHLlvjYVNAuQqg6ec9EdaMuwGzpT1TrKqTyKl2)
+![](https://lh4.googleusercontent.com/cLd17sVISZXA_GeSueXkLcXTpMQpnGRT_sogf6bOuiSw1LWcEqA1m3RtGRUc2s9bdqyXN9gCyCSAYRewgjdESwmhNUDeNMnksadhQqmEPY86MfMCvfCYoiJaCK661k3-lTEFQ8sE)
 
 Según nuestro dataset, las mejores poblaciones donde comprar sus gafas son Ourense, Teruel y Lugo con reseñas promedias superior a 4.7, superior a la media nacional de 4.50.
 
-![](https://lh3.googleusercontent.com/pIxu4j5NaPxBBXdJC3r3U8jDK2ua1yXvKeRXCpRkNnW4mpkeWL9iveNII5s3KI_TgD1I9iH6FxGIsoZEthfYvSOEpnidoyikc9jwyZLYa5S_HCY66FsvqxzqklP-FXrflqecFKTG)
+![](https://lh5.googleusercontent.com/iAOZwmp7CW-JXWIdjO1F42h5c38n2uK-v6bHESv4yAfqV1a6JuUYW0bTinw2upIvhOpznYoK1tAE_snV1kA1\_Ki6tJGjv4Tnhl1beSrClI4tw4AlDY5Bt1MwVszaKmpkX-5J2g4F)
 
 Del otro lado, las 3 peores poblaciones de nuestra lista son Araba, Zamora y Girona con reseñas promedias por debajo de 4.0:
 
 ![](https://lh5.googleusercontent.com/9zQEIijX2sE3o0ogHGDkeJFJBck-9n3wFplzuYs0l1XKpg93Q3uTuw2hoy3cYEaI73-qm4K0legiYWayHDuryZrMuM-z5kXd4\_TBuNrRSuZSAGLo8b\_4VOAX7IzSCvEU1ory--B\_)
+
+![](https://lh5.googleusercontent.com/9zQEIijX2sE3o0ogHGDkeJFJBck-9n3wFplzuYs0l1XKpg93Q3uTuw2hoy3cYEaI73-qm4K0legiYWayHDuryZrMuM-z5kXd4\_TBuNrRSuZSAGLo8b\_4VOAX7IzSCvEU1ory--B\_)
+
+
 
 Para más información o para acceder a la base de datos detrás de este análisis, podéis contactarnos a través de esta URL: [Contact Us](https://pie2re.typeform.com/to/bqJ0ieF7)
