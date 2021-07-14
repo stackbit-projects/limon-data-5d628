@@ -59,8 +59,6 @@ Si analizamos la información de satisfacción a nivel de marcas, esto sería nu
 
 A nivel geográfico, las ciudades más representadas en nuestra muestra son Madrid con 168 ópticas, seguida por Barcelona con 96 ópticas y Valencia con 75 ópticas:
 
-
-
 ![](https://lh5.googleusercontent.com/3AQVoT59L_DjxX5JGF_bcvS0QPa1DnC0CS-2STYMIHB7gP2f7Y-Si7CdyJb3OZU8KAjSdifRcVLDBzS5QAN7e1AmM29Z68Sh7qQTlnT7tNNmbP9LjvjCCl2e7nO9RAkJh5NBU99w)
 
 En esta tabla vemos también que algunas cadenas tienen valoración muy distintas dentro de su portfolio de tienda, con diferencia de hasta 2.5 puntos con valoración mínima de 2.9 hasta 4.5 para las mejores tiendas de la misma cadena (multiopticas.com).
@@ -73,6 +71,12 @@ Del otro lado, las 3 peores poblaciones de nuestra lista son Araba, Zamora y Gir
 
 ![](https://lh5.googleusercontent.com/9zQEIijX2sE3o0ogHGDkeJFJBck-9n3wFplzuYs0l1XKpg93Q3uTuw2hoy3cYEaI73-qm4K0legiYWayHDuryZrMuM-z5kXd4\_TBuNrRSuZSAGLo8b\_4VOAX7IzSCvEU1ory--B\_)
 
-![](https://lh5.googleusercontent.com/9zQEIijX2sE3o0ogHGDkeJFJBck-9n3wFplzuYs0l1XKpg93Q3uTuw2hoy3cYEaI73-qm4K0legiYWayHDuryZrMuM-z5kXd4\_TBuNrRSuZSAGLo8b\_4VOAX7IzSCvEU1ory--B\_)
 
-Para más información o para acceder a la base de datos detrás de este análisis, podéis contactarnos a través de esta URL: [Contact Us](https://pie2re.typeform.com/to/bqJ0ieF7)
+
+Finalmente, la siguiente gráfica muestra en que % se sitúa una tienda en función de su valoración promedia:
+
+![](https://lh5.googleusercontent.com/7qwGJ3fad22x5o4inHqKtjPYyPemvfcdG58SoUikCc-bYI21ssuUyMnvuU9HfoU7z-9XPJUEMNi-ni1\_nSBSUvvJUho0DU41h3WW0LnElu4b2lw8ErkLICy3RbS5ytxyNl4QY_GC)
+
+Las tiendas con 4.9 o más se sitúan en el top 25% de las ópticas, cuando las ópticas de 4.6 o menos empiezan a pertenecer a la media baja de las Ópticas españolas.
+
+Para más información, para acceder a la base de datos  detrás de este análisis o a nuestro dashboard con cobertura nacional, podéis contactarnos a través de esta URL: [Contact Us](https://pie2re.typeform.com/to/bqJ0ieF7)
