@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: How Our Design Team Collaborates
+      value: Mercado de las Ópticas en España
     - name: 'twitter:description'
       value: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
     - name: 'twitter:image'
