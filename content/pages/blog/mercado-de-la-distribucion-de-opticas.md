@@ -19,7 +19,7 @@ seo:
       value: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
       keyName: property
     - name: 'og:image'
-      value: images/11.jpg
+      value: /images/G5NCn-top-20-pticas-de-espa-a-br-.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
