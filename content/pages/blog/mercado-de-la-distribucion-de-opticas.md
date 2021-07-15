@@ -7,7 +7,7 @@ thumb_image: /images/G5NCn-top-20-pticas-de-espa-a-br-.png
 image: /images/G5NCn-top-20-pticas-de-espa-a-br-.png
 seo:
   title: Mercado de las Ópticas en España
-  description: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
+  description: ¿Quién gana en el mercado de la distribución de Ópticas en España?
   extra:
     - name: 'og:type'
       value: article
@@ -16,7 +16,7 @@ seo:
       value: Mercado de las Ópticas en España
       keyName: property
     - name: 'og:description'
-      value: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
+      value: ¿Quién gana en el mercado de la distribución de Ópticas en España?
       keyName: property
     - name: 'og:image'
       value: /images/G5NCn-top-20-pticas-de-espa-a-br-.png
@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:title'
       value: Mercado de las Ópticas en España
     - name: 'twitter:description'
-      value: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
+      value: ¿Quién gana en el mercado de la distribución de Ópticas en España?
     - name: 'twitter:image'
       value: images/11.jpg
       relativeUrl: true
