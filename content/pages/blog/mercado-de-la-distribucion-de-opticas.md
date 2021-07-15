@@ -13,7 +13,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Mercado de las 
+      value: Mercado de las Ópticas en España
       keyName: property
     - name: 'og:description'
       value: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
