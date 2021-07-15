@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:description'
       value: ¿Quién gana en el mercado de la distribución de Ópticas en España?
     - name: 'twitter:image'
-      value: images/11.jpg
+      value: /images/G5NCn-top-20-pticas-de-espa-a-br-.png
       relativeUrl: true
 layout: post
 ---
