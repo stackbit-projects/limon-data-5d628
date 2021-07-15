@@ -13,7 +13,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: How Our Design Team Collaborates
+      value: Mercado de las 
       keyName: property
     - name: 'og:description'
       value: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
