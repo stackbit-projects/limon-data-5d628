@@ -6,7 +6,7 @@ date: '2021-04-27'
 thumb_image: /images/Screenshot 2021-06-27 at 10.39.10.png
 thumb_image_alt: Business people in a meeting
 image: /images/Captura limondata report restaurantes portada.PNG
-image_alt: Business people in a meeting
+image_alt: Portada report restaurantes
 seo:
   title: A Guide To User Journey Mapping
   description: A tale about Journey Mapping
