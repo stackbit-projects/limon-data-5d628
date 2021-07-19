@@ -38,10 +38,9 @@ excerpt: Top 10 básicos para mejorar el posicionamiento en Google maps
 ---
 Desde LimonData hemos analizado las más de 3 millones de reseñas de los restaurantes de Madrid.
 
-
 A continuación hacemos un análisis de casi 7.000 restaurantes de Madrid, analizando más de 3 millones de reseñas de Google maps de 196 categorías distintas.
 
-**Análisis por categoría **
+\*\*Análisis por categoría \*\*
 
 Comenzamos con un repaso por las diferentes categorías. En Madrid, existen un total de 196 categorías diferentes. La categoría “Restaurante”, a secas, representa el 27% del total de los restaurantes. La siguiente categoría más repetida es “Bar de tapas” con un 8% seguida por “Pizzería” con su 5% de la tarta.
 
@@ -59,7 +58,7 @@ Por lo tanto, si su restaurante tiene más de 4.8 estrellas, enhorabuena, porque
 
 Compartimos el número medio de reseñas por categoría y la puntuación media de las 15 principales categorías.
 
-** **![](https://lh5.googleusercontent.com/Vj4KNbrMF9Sft91JWQvhfYMR8e6Azv\_1WUFaFfg7qVVV1Ps6F9j_ld5qjeSgbC7iDmjACHuN7hAbDrsvarrR0aA7xoo4Zr1L5hR0t8HZM4q70CUx8eu91ZDYPesKTuTK6DXpATye)
+![](https://lh5.googleusercontent.com/Vj4KNbrMF9Sft91JWQvhfYMR8e6Azv\_1WUFaFfg7qVVV1Ps6F9j_ld5qjeSgbC7iDmjACHuN7hAbDrsvarrR0aA7xoo4Zr1L5hR0t8HZM4q70CUx8eu91ZDYPesKTuTK6DXpATye)
 
 **Análisis por código postal**: 
 
@@ -68,8 +67,6 @@ Continuamos para identificar la zona que más restaurantes tiene mejor valorados
 En el podium tenemos a 28004 y 28013. A continuación compartimos el top 10 zonas con más restaurantes por metro cuadrado.
 
 ![](https://lh5.googleusercontent.com/q5lEToUW7vdijjxh-oR2x-Cy7MrbSOOlLi1jghY-KUSOGiAKcJ7ZUmBTIj1Q16Xzcx52x1bYtYU6bMEleJIrmPXFbRtWoG2mSunO8IzwReIKepORMr0GMyczv2MuBq6pZVtlwbzx)
-
-
 
 Repasamos cómo mejorar el posicionamiento de su negocio para que se encuentre entre los primeros resultados tras una búsqueda.
 
