@@ -5,7 +5,7 @@ author: content/data/authors/jane-doe.yaml
 date: '2021-04-27'
 thumb_image: /images/Screenshot 2021-06-27 at 10.39.10.png
 thumb_image_alt: Business people in a meeting
-image: images/10.jpg
+image: /images/Captura limondata report restaurantes portada.PNG
 image_alt: Business people in a meeting
 seo:
   title: A Guide To User Journey Mapping
