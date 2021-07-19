@@ -34,6 +34,7 @@ seo:
       value: images/10.jpg
       relativeUrl: true
 layout: post
+excerpt: 'Cómo mejorar mi '
 ---
 Desde LimonData hemos analizado las más de 3 millones de reseñas de los restaurantes de Madrid.
 
