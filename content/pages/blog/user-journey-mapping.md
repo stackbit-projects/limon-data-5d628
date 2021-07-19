@@ -1,7 +1,6 @@
 ---
 title: 'Qué pasa cuando analizamos más de 3,000,000 de reseñas de Google maps'
 subtitle: What happens when you analyze 3M reviews from google maps
-excerpt: P
 author: content/data/authors/jane-doe.yaml
 date: '2021-04-27'
 thumb_image: /images/Screenshot 2021-06-27 at 10.39.10.png
