@@ -34,7 +34,7 @@ seo:
       value: images/10.jpg
       relativeUrl: true
 layout: post
-excerpt: Top 10 a tener en cuneta posicionamiento en Google
+excerpt: Top 10 a tener en cuenta posicionamiento en Google
 ---
 Desde LimonData hemos analizado las más de 3 millones de reseñas de los restaurantes de Madrid.
 
