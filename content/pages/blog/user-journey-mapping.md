@@ -4,7 +4,7 @@ subtitle: What happens when you analyze 3M reviews from google maps
 author: content/data/authors/jane-doe.yaml
 date: '2021-04-27'
 thumb_image: /images/Screenshot 2021-06-27 at 10.39.10.png
-thumb_image_alt: Business people in a meeting
+thumb_image_alt: Portada report restaurantes
 image: /images/Captura limondata report restaurantes portada.PNG
 image_alt: Portada report restaurantes
 seo:
