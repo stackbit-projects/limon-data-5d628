@@ -48,7 +48,7 @@ Para este análisis, se ha decidido seleccionar los restaurantes con un mínimo 
 
 Todo cabe en este universo culinario y todos tienen un denominador común. Servicio y Calidad. Céntricos y con vistas al skyline, dentro de un mercado de barrio, de cocina fusión o de cocina más clásica, así son los restaurantes mejor valorados de Madrid.
 
-Podéis encontrar la lista completa siguiendo este [link](https://datastudio.google.com/s/vNjH7bfXuKU), y a continuación el top 5 de este ranking: 
+Podéis encontrar la lista completa siguiendo este [link](https://datastudio.google.com/s/vNjH7bfXuKU), y a continuación el top 5 de este ranking:
 
 Diciembre 2020
 
@@ -73,3 +73,9 @@ Diciembre 2020
 **La Turulita**: Auténtico sabor Mexicano, ubicado en el interior del Mercado Municipal, calle Ibiza nº 8, puesto 16, Madrid.
 
 ![](https://lh5.googleusercontent.com/Kgqd12BedbgdCebI-whjAkz5LMCPTcK31o3dQXzGf7Guofhuhf4YmdBTe6S8TguYNU4igQ486g8GYdKY532yVFfTv0Ef1cIl2GGbQjcSZB5WjDVKe2FeCjgcAq6MqkJOVM7JzsGS)
+
+
+
+Hasta aquí los 5 restaurantes con más de 50 reseñas valorados con una puntuación de 5/5 en google maps.
+
+Datos recogidos en diciembre de 2020.
