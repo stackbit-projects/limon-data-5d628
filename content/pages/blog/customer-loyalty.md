@@ -11,8 +11,7 @@ image_alt: LimonData Dashboard
 seo:
   title: The top 100 restaurants in Madrid
   description: >-
-    A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-    amet commodo massa.
+    Publicamos la lista de los 100 restaurantes mejor valorados según Google Maps.
   extra:
     - name: 'og:type'
       value: article
