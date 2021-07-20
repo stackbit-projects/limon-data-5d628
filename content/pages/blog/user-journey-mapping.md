@@ -8,7 +8,7 @@ thumb_image_alt: Portada report restaurantes
 image: /images/Captura limondata report restaurantes portada.PNG
 image_alt: Portada report restaurantes
 seo:
-  title: A Guide To User Journey Mapping
+  title: Analizamos 3,000,000 de reseñas
   description: A tale about Journey Mapping
   extra:
     - name: 'og:type'
