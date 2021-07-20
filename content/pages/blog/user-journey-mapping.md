@@ -9,7 +9,7 @@ image: /images/Captura limondata report restaurantes portada.PNG
 image_alt: Portada report restaurantes
 seo:
   title: Analizamos 3,000,000 de reseñas
-  description: Analizamos 3,000,000 de reseñas
+  description: 'Qué pasa cuando analizamos más de 3,000,000 de reseñas de Google maps'
   extra:
     - name: 'og:type'
       value: article
@@ -18,7 +18,7 @@ seo:
       value: Analizamos 3,000,000 de reseñas
       keyName: property
     - name: 'og:description'
-      value: Analizamos 3,000,000 de reseñas
+      value: 'Qué pasa cuando analizamos más de 3,000,000 de reseñas de Google maps'
       keyName: property
     - name: 'og:image'
       value: /images/Screenshot 2021-06-27 at 10.39.10.png
