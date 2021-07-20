@@ -9,7 +9,7 @@ image: /images/Captura limondata report restaurantes portada.PNG
 image_alt: Portada report restaurantes
 seo:
   title: Analizamos 3,000,000 de reseñas
-  description: A tale about Journey Mapping
+  description: Analizamos 3,000,000 de reseñas
   extra:
     - name: 'og:type'
       value: article
@@ -18,7 +18,7 @@ seo:
       value: Analizamos 3,000,000 de reseñas
       keyName: property
     - name: 'og:description'
-      value: A tale about Journey Mapping
+      value: Analizamos 3,000,000 de reseñas
       keyName: property
     - name: 'og:image'
       value: /images/Screenshot 2021-06-27 at 10.39.10.png
@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:title'
       value: Analizamos 3,000,000 de reseñas
     - name: 'twitter:description'
-      value: A tale about Journey Mapping
+      value: Analizamos 3,000,000 de reseñas
     - name: 'twitter:image'
       value: /images/Screenshot 2021-06-27 at 10.39.10.png
       relativeUrl: true
