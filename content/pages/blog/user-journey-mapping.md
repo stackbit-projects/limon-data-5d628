@@ -21,7 +21,7 @@ seo:
       value: A tale about Journey Mapping
       keyName: property
     - name: 'og:image'
-      value: images/10.jpg
+      value: /images/Screenshot 2021-06-27 at 10.39.10.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:description'
       value: A tale about Journey Mapping
     - name: 'twitter:image'
-      value: images/10.jpg
+      value: /images/Screenshot 2021-06-27 at 10.39.10.png
       relativeUrl: true
 layout: post
 excerpt: Top 10 básicos para mejorar el posicionamiento en Google maps
