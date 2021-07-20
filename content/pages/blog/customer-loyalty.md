@@ -9,7 +9,7 @@ thumb_image_alt: LimonData Dashboard
 image: /images/Screenshot 2021-06-27 at 10.39.10.png
 image_alt: LimonData Dashboard
 seo:
-  title: Customer Loyalty Programs That Stick
+  title: The top 100 restaurants in Madrid
   description: >-
     A story about customer loyalty curabitur sed consectetur nisi. Integer sit
     amet commodo massa.
@@ -18,7 +18,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Customer Loyalty Programs That Stick
+      value: The top 100 restaurants in Madrid
       keyName: property
     - name: 'og:description'
       value: >-
