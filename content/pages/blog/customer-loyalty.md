@@ -26,7 +26,7 @@ seo:
         sit amet commodo massa.
       keyName: property
     - name: 'og:image'
-      value: images/3.jpg
+      value: /images/iphone-x-in-hand-mockup (1).png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
