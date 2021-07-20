@@ -4,7 +4,7 @@ excerpt: Insights Coming Soon
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-10'
 thumb_image: /images/LP221.jpeg
-image: images/12.jpg
+image: /images/LP221.jpeg
 seo:
   title: Why You Should Set Big Goals
   description: A interesting tale about Big Goals
@@ -19,7 +19,7 @@ seo:
       value: A interesting tale about Big Goals
       keyName: property
     - name: 'og:image'
-      value: images/12.jpg
+      value: /images/LP221.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:description'
       value: A interesting tale about Big Goals
     - name: 'twitter:image'
-      value: images/12.jpg
+      value: /images/LP221.jpeg
       relativeUrl: true
 layout: post
 ---
