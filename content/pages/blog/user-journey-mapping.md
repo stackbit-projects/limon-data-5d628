@@ -15,7 +15,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: A Guide To User Journey Mapping
+      value: Analizamos 3,000,000 de reseñas
       keyName: property
     - name: 'og:description'
       value: A tale about Journey Mapping
@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: A Guide To User Journey Mapping
+      value: Analizamos 3,000,000 de reseñas
     - name: 'twitter:description'
       value: A tale about Journey Mapping
     - name: 'twitter:image'
