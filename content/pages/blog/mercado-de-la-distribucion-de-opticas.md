@@ -55,13 +55,15 @@ Vemos una tendencia clara que cuanto más grande es la cadena, menos calidad per
 
 Si analizamos la información de satisfacción a nivel de marcas, esto sería nuestro top 20 dentro de las marcas de más de 10 tiendas (excluyendo marcas con menos de 100 reseñas):
 
-![](https://lh4.googleusercontent.com/zjbca6AbYrCe6ekF586qVIT0Cx0WjkKw5reKmlvC\_3uXdHDaW2eWHg7Cluy4YQ-MZntoO2rhRvKbKUMhhG09nTYOp5P0wcoBO-ChZsrgbafnjmKO1t6royBy3qTsIXvUV1n12Ktz)
-
-A nivel geográfico, las ciudades más representadas en nuestra muestra son Madrid con 168 ópticas, seguida por Barcelona con 96 ópticas y Valencia con 75 ópticas:
 
 ![](https://lh5.googleusercontent.com/3AQVoT59L_DjxX5JGF_bcvS0QPa1DnC0CS-2STYMIHB7gP2f7Y-Si7CdyJb3OZU8KAjSdifRcVLDBzS5QAN7e1AmM29Z68Sh7qQTlnT7tNNmbP9LjvjCCl2e7nO9RAkJh5NBU99w)
 
 En esta tabla vemos también que algunas cadenas tienen valoraciones muy distintas dentro de su portfolio de tiendas, con diferencia de hasta 2.5 puntos con una valoración mínima de 2.9 y de hasta 4.5 para las mejores tiendas de la misma cadena (multiopticas.com).
+
+A nivel geográfico, las ciudades más representadas en nuestra muestra son Madrid con 168 ópticas, seguida por Barcelona con 96 ópticas y Valencia con 75 ópticas:
+
+
+![](https://lh4.googleusercontent.com/cLd17sVISZXA_GeSueXkLcXTpMQpnGRT_sogf6bOuiSw1LWcEqA1m3RtGRUc2s9bdqyXN9gCyCSAYRewgjdESwmhNUDeNMnksadhQqmEPY86MfMCvfCYoiJaCK661k3-lTEFQ8sE)
 
 Según nuestro dataset, las mejores poblaciones donde comprar sus gafas son Ourense, Teruel y Lugo con valoraciones promedias superiores a 4.7, superior a la media nacional de 4.50.
 
