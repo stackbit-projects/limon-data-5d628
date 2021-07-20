@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Customer Loyalty Programs That Stick
+      value: The top 100 restaurants in Madrid
     - name: 'twitter:description'
       value: >-
         A story about customer loyalty curabitur sed consectetur nisi. Integer
