@@ -7,7 +7,7 @@ author: content/data/authors/jane-doe.yaml
 date: '2020-04-22'
 thumb_image: /images/5 mocks.png
 thumb_image_alt: People in a conference room
-image: images/9.jpg
+image: /images/5 mocks.png
 image_alt: People in a conference room
 seo:
   title: The Advantages and Disadvantages of Working from Home
@@ -23,7 +23,7 @@ seo:
       value: A tale about advantages and disadvantages of working from home
       keyName: property
     - name: 'og:image'
-      value: images/9.jpg
+      value: /images/5 mocks.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:description'
       value: A tale about advantages and disadvantages of working from home
     - name: 'twitter:image'
-      value: images/9.jpg
+      value: /images/5 mocks.png
       relativeUrl: true
 layout: post
 ---
