@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:title'
       value: Analizamos 3,000,000 de reseñas
     - name: 'twitter:description'
-      value: Analizamos 3,000,000 de reseñas
+      value: 'Qué pasa cuando analizamos más de 3,000,000 de reseñas de Google maps'
     - name: 'twitter:image'
       value: /images/Screenshot 2021-06-27 at 10.39.10.png
       relativeUrl: true
