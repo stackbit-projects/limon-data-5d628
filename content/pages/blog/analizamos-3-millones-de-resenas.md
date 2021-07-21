@@ -1,6 +1,5 @@
 ---
 title: 'Qué pasa cuando analizamos más de 3,000,000 de reseñas de Google maps'
-subtitle: What happens when you analyze 3M reviews from google maps
 author: content/data/authors/jane-doe.yaml
 date: '2021-04-27'
 thumb_image: /images/Screenshot 2021-06-27 at 10.39.10.png
@@ -8,14 +7,14 @@ thumb_image_alt: Portada report restaurantes
 image: /images/Captura limondata report restaurantes portada.PNG
 image_alt: Portada report restaurantes
 seo:
-  title: Analizamos 3,000,000 de reseñas
+  title: 'Analizamos 3,000,000 de reseñas'
   description: 'Qué pasa cuando analizamos más de 3,000,000 de reseñas de Google maps'
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Analizamos 3,000,000 de reseñas
+      value: 'Analizamos 3,000,000 de reseñas'
       keyName: property
     - name: 'og:description'
       value: 'Qué pasa cuando analizamos más de 3,000,000 de reseñas de Google maps'
@@ -27,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Analizamos 3,000,000 de reseñas
+      value: 'Analizamos 3,000,000 de reseñas'
     - name: 'twitter:description'
       value: 'Qué pasa cuando analizamos más de 3,000,000 de reseñas de Google maps'
     - name: 'twitter:image'
