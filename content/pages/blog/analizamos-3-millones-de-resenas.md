@@ -40,7 +40,7 @@ Desde LimonData hemos analizado las más de 3 millones de reseñas de los restau
 
 A continuación hacemos un análisis de casi 7.000 restaurantes de Madrid, analizando más de 3 millones de reseñas de Google maps de 196 categorías distintas.
 
-\*\*Análisis por categoría \*\*
+**Análisis por categoría**
 
 Comenzamos con un repaso por las diferentes categorías. En Madrid, existen un total de 196 categorías diferentes. La categoría “Restaurante”, a secas, representa el 27% del total de los restaurantes. La siguiente categoría más repetida es “Bar de tapas” con un 8% seguida por “Pizzería” con su 5% de la tarta.
 
