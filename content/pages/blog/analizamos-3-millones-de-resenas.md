@@ -34,6 +34,7 @@ seo:
       relativeUrl: true
 layout: post
 excerpt: Top 10 básicos para mejorar el posicionamiento en Google maps
+subtitle: Con
 ---
 Desde LimonData hemos analizado las más de 3 millones de reseñas de los restaurantes de Madrid.
 
