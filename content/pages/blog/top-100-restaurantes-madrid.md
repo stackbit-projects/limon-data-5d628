@@ -11,7 +11,8 @@ image_alt: LimonData Dashboard
 seo:
   title: The top 100 restaurants in Madrid
   description: >-
-    Publicamos la lista de los 100 restaurantes mejor valorados según Google Maps.
+    Publicamos la lista de los 100 restaurantes mejor valorados según Google
+    Maps.
   extra:
     - name: 'og:type'
       value: article
@@ -21,7 +22,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Publicamos la lista de los 100 restaurantes mejor valorados según Google Maps.
+        Publicamos la lista de los 100 restaurantes mejor valorados según Google
+        Maps.
       keyName: property
     - name: 'og:image'
       value: /images/iphone-x-in-hand-mockup (1).png
@@ -33,7 +35,8 @@ seo:
       value: The top 100 restaurants in Madrid
     - name: 'twitter:description'
       value: >-
-        Publicamos la lista de los 100 restaurantes mejor valorados según Google Maps.
+        Publicamos la lista de los 100 restaurantes mejor valorados según Google
+        Maps.
     - name: 'twitter:image'
       value: /images/iphone-x-in-hand-mockup (1).png
       relativeUrl: true
@@ -45,9 +48,7 @@ Para este análisis, se ha decidido seleccionar los restaurantes con un mínimo 
 
 Todo cabe en este universo culinario y todos tienen un denominador común. Servicio y Calidad. Céntricos y con vistas al skyline, dentro de un mercado de barrio, de cocina fusión o de cocina más clásica, así son los restaurantes mejor valorados de Madrid.
 
-Podéis encontrar la lista completa siguiendo este [link](https://datastudio.google.com/s/vNjH7bfXuKU), y a continuación el top 5 de este ranking:
-
-Diciembre 2020
+Podéis encontrar la lista completa siguiendo este [link](https://datastudio.google.com/s/vNjH7bfXuKU), y a continuación el top 5 de la selección con una puntuación 5/5 y con más de 50 reseñas.
 
 **La parrilla de Salamanca**: Han reinventado la parrilla de carbón, dando a los platos un punto de modernidad sin perder el sabor característico que aporta el carbón. Calle Padilla nº56, Madrid.
 
@@ -70,8 +71,6 @@ Diciembre 2020
 **La Turulita**: Auténtico sabor Mexicano, ubicado en el interior del Mercado Municipal, calle Ibiza nº 8, puesto 16, Madrid.
 
 ![](https://lh5.googleusercontent.com/Kgqd12BedbgdCebI-whjAkz5LMCPTcK31o3dQXzGf7Guofhuhf4YmdBTe6S8TguYNU4igQ486g8GYdKY532yVFfTv0Ef1cIl2GGbQjcSZB5WjDVKe2FeCjgcAq6MqkJOVM7JzsGS)
-
-
 
 Hasta aquí los 5 restaurantes con más de 50 reseñas valorados con una puntuación de 5/5 en google maps.
 
