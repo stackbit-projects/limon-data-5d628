@@ -33,7 +33,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Analizamos una base de datos de 4.354 ópticas españolas (aproximadamente el 50% de las ópticas de España) con espacio de venta físico y unas 77.739 reseñas recogidas en la plataforma de Google Maps.
+En este estudio, analizamos **una muestra de 4.354 ópticas españolas\*** (aproximadamente el 50% de las ópticas de España) con espacio de venta físico y unas 77.739 reseñas recogidas en la plataforma de Google Maps.
 
 Nuestra base de datos nos permite entender la estructura del sector y su consolidación:
 
@@ -55,13 +55,11 @@ Vemos una tendencia clara que cuanto más grande es la cadena, menos calidad per
 
 Si analizamos la información de satisfacción a nivel de marcas, esto sería nuestro top 20 dentro de las marcas de más de 10 tiendas (excluyendo marcas con menos de 100 reseñas):
 
-
 ![](https://lh5.googleusercontent.com/3AQVoT59L_DjxX5JGF_bcvS0QPa1DnC0CS-2STYMIHB7gP2f7Y-Si7CdyJb3OZU8KAjSdifRcVLDBzS5QAN7e1AmM29Z68Sh7qQTlnT7tNNmbP9LjvjCCl2e7nO9RAkJh5NBU99w)
 
 En esta tabla vemos también que algunas cadenas tienen valoraciones muy distintas dentro de su portfolio de tiendas, con diferencia de hasta 2.5 puntos con una valoración mínima de 2.9 y de hasta 4.5 para las mejores tiendas de la misma cadena (multiopticas.com).
 
 A nivel geográfico, las ciudades más representadas en nuestra muestra son Madrid con 168 ópticas, seguida por Barcelona con 96 ópticas y Valencia con 75 ópticas:
-
 
 ![](https://lh4.googleusercontent.com/cLd17sVISZXA_GeSueXkLcXTpMQpnGRT_sogf6bOuiSw1LWcEqA1m3RtGRUc2s9bdqyXN9gCyCSAYRewgjdESwmhNUDeNMnksadhQqmEPY86MfMCvfCYoiJaCK661k3-lTEFQ8sE)
 
@@ -80,3 +78,6 @@ Finalmente, la siguiente gráfica muestra en qué % se sitúa una tienda en func
 Las tiendas con 4.9 o más se sitúan en el top 25% de las ópticas, cuando las ópticas de 4.6 o menos empiezan a pertenecer a la media baja de las Ópticas españolas.
 
 Para más información, para acceder a la base de datos  detrás de este análisis o a nuestro dashboard con cobertura nacional, podéis contactarnos a través de esta URL: [Contact Us](https://pie2re.typeform.com/to/bqJ0ieF7)
+
+
+*   Nota: base de datos completa disponible para clientes.
