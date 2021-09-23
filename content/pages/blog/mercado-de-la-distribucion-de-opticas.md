@@ -45,6 +45,8 @@ Las 10 principales destacadas en nuestro informe son la siguientes:
 
 ![](https://lh6.googleusercontent.com/Wf5ZhnzoYug8W7ifMj5UIRwwGTSnkp6ll8LSe5JYtW_VLQRmm-s5q3sB0rirglZpbEH55FoC490cz-O4gCBrF1pXsgXOCVbyiHO0IB7JAHMO50wrTSw9UIkzTiCrs8TG0BR44sy8)
 
+*Nota: esta tabla es una muestra de los centros de cada grupo y no incluye la totalidad de sus centros. Tabla completa disponible para clientes.*
+
 Si estas tiendas representan juntas el 30% de las tiendas, representan el 44% del total de las reseñas. Se puede explicar en parte por el tipo de clientela, más predispuesta a escribir reseñas en Google Maps. También se puede interpretar como el resultado de que capturen una cuota de mercado más importante en términos de cifra de negocio, proporcionalmente al número de sus tiendas.
 
 Nuestros datos también dan indicación sobre la percepción de la calidad de la atención ofrecida por tipo de Óptica:
@@ -78,6 +80,5 @@ Finalmente, la siguiente gráfica muestra en qué % se sitúa una tienda en func
 Las tiendas con 4.9 o más se sitúan en el top 25% de las ópticas, cuando las ópticas de 4.6 o menos empiezan a pertenecer a la media baja de las Ópticas españolas.
 
 Para más información, para acceder a la base de datos  detrás de este análisis o a nuestro dashboard con cobertura nacional, podéis contactarnos a través de esta URL: [Contact Us](https://pie2re.typeform.com/to/bqJ0ieF7)
-
 
 *   Nota: base de datos completa disponible para clientes.
