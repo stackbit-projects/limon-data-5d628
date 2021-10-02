@@ -81,4 +81,4 @@ Las tiendas con 4.9 o más se sitúan en el top 25% de las ópticas, cuando las 
 
 Para Opticas interesadas en utilizar nuestra herramienta para analizar competitividad de precio en e-commerce en varias marcas y referencias, contactad con nosotros a traves de este link: [Contact Us](https://pie2re.typeform.com/to/bqJ0ieF7)
 
-'*   Nota: base de datos completa disponible para clientes.
+*   Nota: base de datos completa disponible para clientes.
