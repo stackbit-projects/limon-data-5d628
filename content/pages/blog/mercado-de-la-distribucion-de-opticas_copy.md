@@ -1,6 +1,6 @@
 ---
 title: ¿En qué pagina web es más barato comprar gafas de sol online?
-excerpt: 'Analizamos más de 4,000 Ópticas españolas'
+excerpt: 'Analizamos más de 5,000 Ópticas españolas'
 author: content/data/authors/jane-doe.yaml
 date: '2021-07-14'
 thumb_image: /images/G5NCn-top-20-pticas-de-espa-a-br-.png
