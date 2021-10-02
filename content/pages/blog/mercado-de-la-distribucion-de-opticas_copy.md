@@ -79,6 +79,6 @@ Finalmente, la siguiente gráfica muestra en qué % se sitúa una tienda en func
 
 Las tiendas con 4.9 o más se sitúan en el top 25% de las ópticas, cuando las ópticas de 4.6 o menos empiezan a pertenecer a la media baja de las Ópticas españolas.
 
-Para más información, para acceder a la base de datos  detrás de este análisis o a nuestro dashboard con cobertura nacional, podéis contactarnos a través de esta URL: [Contact Us](https://pie2re.typeform.com/to/bqJ0ieF7)
+Para Opticas interesadas en utilizar nuestra herramienta para analizar competitividad de precio en e-commerce en varias marcas y referencias, contactad con nosotros a traves de este link: [Contact Us](https://pie2re.typeform.com/to/bqJ0ieF7)
 
 *   Nota: base de datos completa disponible para clientes.
