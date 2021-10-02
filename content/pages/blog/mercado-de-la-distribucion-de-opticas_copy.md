@@ -33,7 +33,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Hoy desde LimonData queremos contestar a la pregunta: ¿dónde es más barato comprar gafas de sol online?
+Hoy desde LimonData queremos contestar a la pregunta: **¿Dónde es más barato comprar gafas de sol online?**
 
 El Sector de la Ópticas como muchos otros sectores se ha digitalizado y la mayoría de las grandes marcas han desarrollado su presencia online gracias a webs de e-commerce. Como consecuencia, los compradores tienen hoy una multitud de opciones de puntos de venta online donde comprar gafas de sol.
 
