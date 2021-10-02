@@ -7,7 +7,7 @@ thumb_image: /images/Screenshot 2021-10-02 at 19.17.12-6e45958d.png
 image: /images/Screenshot 2021-10-02 at 19.17.12.png
 seo:
   title: Mercado de las Ópticas en España
-  description: ¿En qué pagina web es más barato comprar gafas de sol online?
+  description: ¿En qué pagina web es más barato comprar gafas de sol?
   extra:
     - name: 'og:type'
       value: article
