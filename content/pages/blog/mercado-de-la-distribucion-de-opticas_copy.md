@@ -1,5 +1,5 @@
 ---
-title: ¿En qué pagina web es más barato comprar gafas de sol online?
+title: ¿Quién gana en el mercado de la distribución de Ópticas en España?
 excerpt: 'Analizamos más de 4,000 Ópticas españolas'
 author: content/data/authors/jane-doe.yaml
 date: '2021-07-14'
