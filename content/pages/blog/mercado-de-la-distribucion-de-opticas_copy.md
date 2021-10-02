@@ -4,7 +4,7 @@ excerpt: 'Analizamos más de 5,000 precios de gafas de sol online'
 author: content/data/authors/jane-doe.yaml
 date: '2021-07-14'
 thumb_image: /images/G5NCn-top-20-pticas-de-espa-a-br-.png
-image: /images/G5NCn-top-20-pticas-de-espa-a-br-.png
+image: /images/Screenshot 2021-10-02 at 19.17.12.png
 seo:
   title: Mercado de las Ópticas en España
   description: ¿En qué pagina web es más barato comprar gafas de sol online?
