@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:title'
       value: Mercado de las Ópticas en España
     - name: 'twitter:description'
-      value: ¿Quién gana en el mercado de la distribución de Ópticas en España?
+      value: ¿En qué pagina web es más barato comprar gafas de sol online?
     - name: 'twitter:image'
       value: /images/G5NCn-top-20-pticas-de-espa-a-br-.png
       relativeUrl: true
