@@ -2,7 +2,7 @@
 title: ¿En qué pagina web es más barato comprar gafas de sol?
 excerpt: Analizamos más de 5.000 precios de gafas de sol online
 author: content/data/authors/jane-doe.yaml
-date: '2021-10-06'
+date: '2021-10-05'
 thumb_image: /images/Screenshot 2021-10-02 at 19.17.12-6e45958d.png
 image: /images/Screenshot 2021-10-02 at 19.17.12.png
 seo:
