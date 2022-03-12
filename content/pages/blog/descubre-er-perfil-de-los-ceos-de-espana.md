@@ -7,7 +7,7 @@ thumb_image: https://i.imgur.com/Oa03lHI.png
 image: https://i.imgur.com/Oa03lHI.png
 seo:
   title: ¿Quiénes son realmente esos CEOs que levantan capital en España?
-  description: ¿En qué pagina web es más barato comprar gafas de sol?
+  description: Analizamos el perfil de 400 CEO Españoles
   extra:
     - name: 'og:type'
       value: article
