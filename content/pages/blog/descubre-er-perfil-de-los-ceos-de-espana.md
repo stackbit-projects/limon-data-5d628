@@ -49,7 +49,7 @@ Tras analizar los datos recogidos, podemos desde LimonData contestar a cómo es 
 
  
 
-1.  \*\*Género \*\*
+### **1. Género **
 
  
 
@@ -59,7 +59,9 @@ Para iniciar el análisis segmentamos la base de datos por género, observamos q
 
 *\*2022: cifras del 2022 preliminares.*
 
-1.  **Capital levantado**
+**
+
+### **2. Capital levantado**
 
  
 
@@ -71,7 +73,7 @@ Es importante mencionar que no hay una diferencia significativa entre géneros, 
 
 Observamos paridad en la repartición de rondas, no encontramos diferencias significativas con respecto al capital levantado por género. Tanto hombres como mujeres levantan rondas por totales principalmente incluidos entre 400K€ y 2M€ o ya superiores a €5M. ![](https://lh4.googleusercontent.com/wGsG8whmmqsqxKyGsuiVmic6gQPg9LNtoADF5pkxCj4hj4CAxP1nQWUA0NcB25Oc-05ZkA\_77gzGmVD-Gu0HPk7OaEJxRNiOvsojQVt0tl8xncxKcPbDdGEsI9W_cYzcXsxrMyo8)
 
-1.  **Experiencia Profesional**
+### **3. Experiencia Profesional**
 
 En la siguiente tabla queríamos medir la experiencia profesional de los CEOs que reciben financiación, tomando como referencia el año en el que finalizaron sus estudios. La repartición de CEOs hombre/ mujer por experiencia profesional es muy similar. Cabe destacar que, como evolución a lo largo de éstas últimas décadas, las nuevas generaciones de mujeres están tomando más fuerza a la hora de emprender y levantar capital. Las promociones que más representación tienen en el ecosistema español actualmente son los hombres que finalizaron sus estudios entre el 2006 y 2010 y las mujeres que los terminaron entre 2016 y 2020. 
 
@@ -83,7 +85,7 @@ A continuación, analizamos la relación entre la experiencia profesional total 
 
 ![](https://lh3.googleusercontent.com/IbaHVY3qgnp-kHA5BSd-3Op1-u_TLl68y7sLnRAvd_L3yqjwowJ-471GqVb8fmRzFQWDuKVzFj1UZXlyq8SmAbmCNYnYu-Q6uH2doC9VpwcC6qK5aPE_N82OczS0uPkGtqtcElqO)
 
-1.  **Ubicación**
+### **4. Ubicación**
 
 En cuanto a ubicación geográfica, Barcelona y Madrid se mantienen a la cabeza de la inversión en el ecosistema startup español. En ambos hubs se levantan cantidades similares, en línea con la media nacional. Algunos CEOs residentes en el extranjero, al tener la compañía relación con España también eligieron este ecosistema para levantar capital o establecer la compañía. Como era de esperar, los CEOs ubicados en el extranjero levantan más capital de media, lo que sugiere que el acceso al capital extranjero les puede conferir una ventaja versus emprendedores ubicados  en España.
 
@@ -91,7 +93,11 @@ Las nuevas iniciativas empresariales son claves en la atracción y creación de 
 
 ![](https://lh6.googleusercontent.com/YFhhSnm9XME2eVOz2j5wiNLFQ05JlbgUP5nQJK8Wgr5nBwtihIYnMALnFpAiXcSmJD\_2Ja-8BEaUgLGjWAeQTPgxmarYKS0r5hThA0AJNSpMORLXGIuSnKbz9JFxp0favtHMW9wl)
 
-La educación de una gran parte de los emprendedores que han levantado capital en España, se aglutina en torno a 4 universidades. En total más de 1 de cada 5 CEOs de startup española se ha formado en una de las cuatro universidades a que mencionamos a continuación: IESE Business School, ESADE, IE Business School y la Universitat Politècnica de Catalunya. Existen universidades que cuentan con una representación de mujeres CEOS de hasta 3 veces superior a la media nacional (Complutense de Madrid), mientras que por el contrario, algunas universidades destacan por tener una representación muy por debajo de la media nacional, como la Universitat Politècnica de Catalunya.
+
+
+### 5. Educacio
+
+ónLa educación de una gran parte de los emprendedores que han levantado capital en España, se aglutina en torno a 4 universidades. En total más de 1 de cada 5 CEOs de startup española se ha formado en una de las cuatro universidades a que mencionamos a continuación: IESE Business School, ESADE, IE Business School y la Universitat Politècnica de Catalunya. Existen universidades que cuentan con una representación de mujeres CEOS de hasta 3 veces superior a la media nacional (Complutense de Madrid), mientras que por el contrario, algunas universidades destacan por tener una representación muy por debajo de la media nacional, como la Universitat Politècnica de Catalunya.
 
 ![](https://lh3.googleusercontent.com/LC-hzGjENwsXtIPVBosM4\_YKPeOj4NbnUNat_BUAIiXe07XK_S8xDdXdvGAVva8fZSgqKteZkdmBjcamXVyMRtwbQ_G0iB-\_CcjILbd7kL159VizA9trD6XcxIWs39EStDr2AdK7)
 
