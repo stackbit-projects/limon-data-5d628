@@ -16,7 +16,7 @@ seo:
       value: ¿Quiénes son realmente esos CEOs que levantan capital en España?
       keyName: property
     - name: 'og:description'
-      value: ¿En qué pagina web es más barato comprar gafas de sol?
+      value: Analizamos el perfil de 400 CEO Españoles
       keyName: property
     - name: 'og:image'
       value: https://i.imgur.com/Oa03lHI.png
