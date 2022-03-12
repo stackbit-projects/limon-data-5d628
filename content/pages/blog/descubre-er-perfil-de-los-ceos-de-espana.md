@@ -1,5 +1,5 @@
 ---
-title: ¿En qué pagina web es más barato comprar gafas de sol?
+title: ¿Quiénes son realmente esos CEOs que levantan capital en España?
 excerpt: Analizamos más de 5.000 precios de gafas de sol online
 author: content/data/authors/jane-doe.yaml
 date: '2021-10-05'
