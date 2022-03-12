@@ -2,7 +2,7 @@
 title: ¿Quiénes son realmente esos CEOs que levantan capital en España?
 excerpt: Analizamos el perfil de 400 CEO Españoles
 author: content/data/authors/jane-doe.yaml
-date: '2022-03-05'
+date: '2022-03-12'
 thumb_image: 'https://i.imgur.com/Oa03lHI.png'
 image: 'https://i.imgur.com/Oa03lHI.png'
 seo:
