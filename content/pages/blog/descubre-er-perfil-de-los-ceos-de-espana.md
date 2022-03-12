@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Mercado de las Ópticas en España
+      value: ¿Quiénes son realmente esos CEOs que levantan capital en España?
     - name: 'twitter:description'
       value: ¿En qué pagina web es más barato comprar gafas de sol?
     - name: 'twitter:image'
