@@ -59,7 +59,7 @@ Para iniciar el análisis segmentamos la base de datos por género, observamos q
 
 *\*2022: cifras del 2022 preliminares.*
 
-**
+\*\*
 
 ### **2. Capital levantado**
 
@@ -93,11 +93,9 @@ Las nuevas iniciativas empresariales son claves en la atracción y creación de 
 
 ![](https://lh6.googleusercontent.com/YFhhSnm9XME2eVOz2j5wiNLFQ05JlbgUP5nQJK8Wgr5nBwtihIYnMALnFpAiXcSmJD\_2Ja-8BEaUgLGjWAeQTPgxmarYKS0r5hThA0AJNSpMORLXGIuSnKbz9JFxp0favtHMW9wl)
 
+### **5. Educación**
 
-
-### 5. Educacio
-
-ónLa educación de una gran parte de los emprendedores que han levantado capital en España, se aglutina en torno a 4 universidades. En total más de 1 de cada 5 CEOs de startup española se ha formado en una de las cuatro universidades a que mencionamos a continuación: IESE Business School, ESADE, IE Business School y la Universitat Politècnica de Catalunya. Existen universidades que cuentan con una representación de mujeres CEOS de hasta 3 veces superior a la media nacional (Complutense de Madrid), mientras que por el contrario, algunas universidades destacan por tener una representación muy por debajo de la media nacional, como la Universitat Politècnica de Catalunya.
+La educación de una gran parte de los emprendedores que han levantado capital en España, se aglutina en torno a 4 universidades. En total más de 1 de cada 5 CEOs de startup española se ha formado en una de las cuatro universidades a que mencionamos a continuación: IESE Business School, ESADE, IE Business School y la Universitat Politècnica de Catalunya. Existen universidades que cuentan con una representación de mujeres CEOS de hasta 3 veces superior a la media nacional (Complutense de Madrid), mientras que por el contrario, algunas universidades destacan por tener una representación muy por debajo de la media nacional, como la Universitat Politècnica de Catalunya.
 
 ![](https://lh3.googleusercontent.com/LC-hzGjENwsXtIPVBosM4\_YKPeOj4NbnUNat_BUAIiXe07XK_S8xDdXdvGAVva8fZSgqKteZkdmBjcamXVyMRtwbQ_G0iB-\_CcjILbd7kL159VizA9trD6XcxIWs39EStDr2AdK7)
 
