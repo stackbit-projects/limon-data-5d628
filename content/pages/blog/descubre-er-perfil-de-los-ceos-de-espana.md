@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:title'
       value: ¿Quiénes son realmente esos CEOs que levantan capital en España?
     - name: 'twitter:description'
-      value: ¿En qué pagina web es más barato comprar gafas de sol?
+      value: Analizamos el perfil de 400 CEO Españoles
     - name: 'twitter:image'
       value: https://i.imgur.com/Oa03lHI.png
       relativeUrl: true
