@@ -19,7 +19,7 @@ seo:
       value: ¿En qué pagina web es más barato comprar gafas de sol?
       keyName: property
     - name: 'og:image'
-      value: /images/G5NCn-top-20-pticas-de-espa-a-br-.png
+      value: https://i.imgur.com/Oa03lHI.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
