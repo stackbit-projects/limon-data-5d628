@@ -6,7 +6,7 @@ date: '2022-03-12'
 thumb_image: https://i.imgur.com/Oa03lHI.png
 image: https://i.imgur.com/Oa03lHI.png
 seo:
-  title: Mercado de las Ópticas en España
+  title: ¿Quiénes son realmente esos CEOs que levantan capital en España?
   description: ¿En qué pagina web es más barato comprar gafas de sol?
   extra:
     - name: 'og:type'
