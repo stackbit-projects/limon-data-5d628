@@ -1,6 +1,6 @@
 ---
 title: ¿Quiénes son realmente esos CEOs que levantan capital en España?
-excerpt: Analizamos más de 5.000 precios de gafas de sol online
+excerpt: Analizamos el perfil de 400 CEO Españoles
 author: content/data/authors/jane-doe.yaml
 date: '2021-10-05'
 thumb_image: https://i.imgur.com/Oa03lHI.png
