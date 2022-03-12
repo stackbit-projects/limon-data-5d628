@@ -45,11 +45,9 @@ Para nuestro estudio, tras identificar las empresas con una financiación superi
 
 Tras analizar los datos recogidos, podemos desde LimonData contestar a cómo es el emprendedor que levanta capital en España.
 
- 
+  
 
- 
-
-### **1. Género **
+### 1. Género
 
  
 
