@@ -13,7 +13,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Mercado de las Ópticas en España
+      value: ¿Quiénes son realmente esos CEOs que levantan capital en España?
       keyName: property
     - name: 'og:description'
       value: ¿En qué pagina web es más barato comprar gafas de sol?
