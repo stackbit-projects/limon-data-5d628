@@ -35,36 +35,11 @@ layout: post
 ---
 El ecosistema startup español está en pleno crecimiento. Desde que en 2011, Cabify se convirtiese en el primer unicornio español, el ecosistema emprendedor en España no ha dejado de sumar compañías a este selecto club. Le siguió Glovo, que ha sido recientemente adquirida por Delivery Hero y el 2022 resulta prometedor.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 En lo poco que llevamos de año, 4 compañías han superado el umbral de 1 billón de dólares americanos de valoración. Entrando en este club de unicornios están: La plataforma especializada en viajes corporativos TravelPerk; la plataforma de descubrimiento y marketplace de experiencias de ocio Fever, la empresa de paquetería Paack y la comunidad de aprendizaje con profesionales creativos Domestika. 
 
-Este éxito del ecosistema de startup español nos ha llevado desde LimonData a plantearnos la siguiente pregunta: ¿Quiénes son realmente esos CEOs que levantan capital en España?
+Este éxito del ecosistema de startup español nos ha llevado desde LimonData a plantearnos la siguiente pregunta: **¿Quiénes son realmente esos CEOs que levantan capital en España?**
 
-Para medir y entender el perfil de los directivos de estas empresas, hemos identificado un total de en torno a unas 700 startups españolas con rondas de capital superiores a 400.000 euros en los últimos 3 años (2019-2022) a través de la base de datos de Crunchbase. Todas estas rondas de financiación, han levantado un total de más de 5.000 millones de euros.
+Para medir y entender el perfil de los directivos de estas empresas, hemos identificado un total de en torno a unas 700 startups españolas con rondas de capital superiores a 400.000 euros en los últimos 3 años (2019-2022) a través de la base de datos de [Crunchbase](https://www.crunchbase.com/). Todas estas rondas de financiación, suman un total de más de 5.000 millones de euros.
 
 Para nuestro estudio, tras identificar las empresas con una financiación superior a 400.000 euros, analizamos una muestra de 400 perfiles de los directores ejecutivos de estas empresas. Hemos recogido datos públicos de la red social LinkedIn para intentar identificar tendencias. Entre las numerosas características de los perfiles, hemos escogido el género, la universidad en los casos donde aplica, el año de finalización de estudios y su ubicación o residencia como criterios para visualizar y resumir los datos con el objetivo de elaborar estadísticas y conocer mejor al emprendedor español.
 
@@ -74,7 +49,7 @@ Tras analizar los datos recogidos, podemos desde LimonData contestar a cómo es 
 
  
 
-1.  **Género **
+1.  \*\*Género \*\*
 
  
 
